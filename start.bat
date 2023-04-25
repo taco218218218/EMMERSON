@@ -1,0 +1,4 @@
+type cons-mex.txt Codigo-proci-civiles.txt Codigo-PROCEDIMIENTOS-PENALES.txt codigo-commercio.txt codigo-civil.txt codigo-asoc-pub.txt > indigrid.txt
+type cons-mex.txt Codigo-proci-civiles.txt Codigo-PROCEDIMIENTOS-PENALES.txt codigo-commercio.txt codigo-civil.txt codigo-asoc-pub.txt > MOdern-csv.txt
+type cons-mex.txt Codigo-proci-civiles.txt Codigo-PROCEDIMIENTOS-PENALES.txt codigo-commercio.txt codigo-civil.txt codigo-asoc-pub.txt > Emeditor.txt
+type cons-mex.txt Codigo-proci-civiles.txt Codigo-PROCEDIMIENTOS-PENALES.txt codigo-commercio.txt codigo-civil.txt codigo-asoc-pub.txt > note++.txt
